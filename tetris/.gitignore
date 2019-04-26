@@ -1,0 +1,11 @@
+*~
+\#*\#
+*.o
+*.gcno
+libmy.a
+a.out
+test
+tetris
+.vscode
+vscode
+debug
