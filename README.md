@@ -1,2 +1,2 @@
-# Tetris
-Projet Epitech de Première Année, réalisé en 2018. Création d'un tetris en ncurses.
+First Year Epitech project, carried out in 2018.
+Creation of a tetris in ncurses.
